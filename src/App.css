@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+body {
+  background: #2F313A;
+    
+}
+
+html {
+  height: 100%;
+}
+
+[data-theme='light'] {
+  /* Estilos para el tema claro */
+  background-color: #fdfdfd;
+}
+
+[data-theme='dark'] {
+  /* Estilos para el tema oscuro */
+  background-color: #2F313A
+}
